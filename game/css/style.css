@@ -1,0 +1,88 @@
+h1 {
+  color:red;
+  font-size: 100px;
+  background: green;
+  font-family: Arial Black;
+}
+
+body{
+background:green;
+cursor: url('http://www.cursor.cc/cursor/690/50/cursor.png'), auto;
+}
+
+button {
+  display: block;
+  font-size:50px;
+}
+
+#enemy6 {
+  position: absolute;
+  top: 400px;
+  left: 100px;
+}
+
+#fire {
+    position: absolute;
+  top: 400px;
+  left: 100px;
+}
+
+#enemy1{
+position: absolute;
+top: 400px; 
+left:500px;
+}
+
+#fire3 {
+  position: absolute;
+top: 400px; 
+left:500px;
+}
+
+
+#enemy2{
+position: absolute;
+top: 500px;
+left: 900px;
+}
+
+#fire4{
+position: absolute;
+top: 500px;
+left: 900px;
+}
+
+
+#enemy3{
+position: absolute;
+top:00px;
+left:900px;  
+}
+
+#fire5
+{
+position: absolute;
+top:00px;
+left:900px;
+} 
+  
+#enemy4{
+ position: absolute;
+  top: 00px;
+  left: 400px;
+}
+
+#fire6
+{
+ position: absolute;
+  top: 00px;
+  left: 400px;
+}
+
+#enemy5 {
+  position: absolute;
+}
+
+#fire2 {
+   position: absolute;
+}
